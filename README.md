@@ -1,1 +1,0 @@
-# interierove-dvere-lingas
