@@ -6,37 +6,37 @@ Moderné **[Interiérové dvere Lingas](https://www.lingas.sk/interierove-dvere)
 
 ## 🛍️ Výrobcovia interiérových dverí v ponuke
 
-### 🔹 [Interiérové Dvere DRE](./interierove-dvere-dre) – [Zobraziť Dvere DRE na Lingas.sk](https://www.lingas.sk/interierove-dvere-dre)
+### 🔹 [Interiérové Dvere DRE](./interierove-dvere-dre.md) – [Zobraziť Dvere DRE na Lingas.sk](https://www.lingas.sk/interierove-dvere-dre)
 Tradičný poľský výrobca s dôrazom na kvalitu, moderný dizajn a prijateľnú cenu.
 
-### 🔹 [Interiérové Dvere Atvyn](./interierove-dvere-atvyn) – [Zobraziť Dvere Atvyn na Lingas.sk](https://www.lingas.sk/interierove-dvere-atvyn)
+### 🔹 [Interiérové Dvere Atvyn](./interierove-dvere-atvyn.md) – [Zobraziť Dvere Atvyn na Lingas.sk](https://www.lingas.sk/interierove-dvere-atvyn)
 Elegantné dvere s modernými líniami, vhodné do každého interiéru.
 
-### 🔹 [Interiérové Dvere Vasco](./interierove-dvere-vasco) – [Zobraziť na Dvere Vasco Lingas.sk](https://www.lingas.sk/interierove-dvere-vasco)
+### 🔹 [Interiérové Dvere Vasco](./interierove-dvere-vasco.md) – [Zobraziť na Dvere Vasco Lingas.sk](https://www.lingas.sk/interierove-dvere-vasco)
 Odolné a štýlové dvere od skúseného výrobcu s dôrazom na detail.
 
-### 🔹 [Interiérové Dvere Voster](./interierove-dvere-voster) – [Zobraziť Dvere Voster na Lingas.sk]](https://www.lingas.sk/interierove-dvere-voster)
+### 🔹 [Interiérové Dvere Voster](./interierove-dvere-voster.md) – [Zobraziť Dvere Voster na Lingas.sk]](https://www.lingas.sk/interierove-dvere-voster)
 Variabilná ponuka modelov, od klasických po ultra-moderné riešenia.
 
-### 🔹 [Interiérové Dvere Invado](./interierove-dvere-invado) – [Zobraziť Dvere Invado na Lingas.sk](https://www.lingas.sk/interierove-dvere-invado)
+### 🔹 [Interiérové Dvere Invado](./interierove-dvere-invado.md) – [Zobraziť Dvere Invado na Lingas.sk](https://www.lingas.sk/interierove-dvere-invado)
 Funkčné dvere so zameraním na technológiu a kvalitu spracovania.
 
-### 🔹 [Interiérové Dvere Erkado](./interierove-dvere-erkado) – [Zobraziť Dvere Erkado na Lingas.sk](https://www.lingas.sk/interierove-dvere-erkado)
+### 🔹 [Interiérové Dvere Erkado](./interierove-dvere-erkado.md) – [Zobraziť Dvere Erkado na Lingas.sk](https://www.lingas.sk/interierove-dvere-erkado)
 Jeden z najvyhľadávanejších výrobcov v strednej Európe, moderný dizajn a kvalita.
 
-### 🔹 [Interiérové Dvere Solodoor](./interierove-dvere-solodoor) – [Zobraziť Dvere Solodoor na Lingas.sk](https://www.lingas.sk/interierove-dvere-solodoor)
+### 🔹 [Interiérové Dvere Solodoor](./interierove-dvere-solodoor.md) – [Zobraziť Dvere Solodoor na Lingas.sk](https://www.lingas.sk/interierove-dvere-solodoor)
 Výrobca interiérových dverí s dôrazom na technickú precíznosť a trvácnosť.
 
-### 🔹 [Interiérové Dvere Centurion](./interierove-dvere-centurion) – [Zobraziť Dvere Centurion na Lingas.sk](https://www.lingas.sk/interierove-dvere-centurion)
+### 🔹 [Interiérové Dvere Centurion](./interierove-dvere-centurion.md) – [Zobraziť Dvere Centurion na Lingas.sk](https://www.lingas.sk/interierove-dvere-centurion)
 Esteticky príťažlivé dvere s dôrazom na nadčasový vzhľad.
 
-### 🔹 [Interiérové Dvere Porta Doors](./interierove-dvere-porta) – [Zobraziť Dvere Porta na Lingas.sk](https://www.lingas.sk/interierove-dvere-porta)
+### 🔹 [Interiérové Dvere Porta Doors](./interierove-dvere-porta.md) – [Zobraziť Dvere Porta na Lingas.sk](https://www.lingas.sk/interierove-dvere-porta)
 Známy európsky výrobca s pestrým portfóliom interiérových riešení.
 
-### 🔹 [Interiérové Dvere Masonite/Doornite](./interierove-dvere-masonite-doornite) – [Zobraziť Dvere Masonite/Doornite na Lingas.sk](https://www.lingas.sk/dvere-masonite-doornite)
+### 🔹 [Interiérové Dvere Masonite/Doornite](./interierove-dvere-masonite-doornite.md) – [Zobraziť Dvere Masonite/Doornite na Lingas.sk](https://www.lingas.sk/dvere-masonite-doornite)
 Od českého kvalitného výrobcu interiérových dverí.
 
-### 🔹 [Interiérové Dvere Pol-Skone](./interierove-dvere-polskone) – [Zobraziť Dvere Pol-Skone na Lingas.sk](https://www.lingas.sk/interierove-dvere-pol-skone)
+### 🔹 [Interiérové Dvere Pol-Skone](./interierove-dvere-polskone.md) – [Zobraziť Dvere Pol-Skone na Lingas.sk](https://www.lingas.sk/interierove-dvere-pol-skone)
 Spojenie tradičných remeselných hodnôt s modernou technológiou.
 
 ---
