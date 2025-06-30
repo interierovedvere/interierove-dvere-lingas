@@ -15,7 +15,7 @@ Elegantné dvere s modernými líniami, vhodné do každého interiéru.
 ### 🔹 [Interiérové Dvere Vasco](./interierove-dvere-vasco.md) – [Zobraziť na Dvere Vasco Lingas.sk](https://www.lingas.sk/interierove-dvere-vasco)
 Odolné a štýlové dvere od skúseného výrobcu s dôrazom na detail.
 
-### 🔹 [Interiérové Dvere Voster](./interierove-dvere-voster.md) – [Zobraziť Dvere Voster na Lingas.sk]](https://www.lingas.sk/interierove-dvere-voster)
+### 🔹 [Interiérové Dvere Voster](./interierove-dvere-voster.md) – [Zobraziť Dvere Voster na Lingas.sk](https://www.lingas.sk/interierove-dvere-voster)
 Variabilná ponuka modelov, od klasických po ultra-moderné riešenia.
 
 ### 🔹 [Interiérové Dvere Invado](./interierove-dvere-invado.md) – [Zobraziť Dvere Invado na Lingas.sk](https://www.lingas.sk/interierove-dvere-invado)
